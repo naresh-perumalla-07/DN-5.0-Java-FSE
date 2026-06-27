@@ -1,31 +1,57 @@
-# Digital Nurture 5.0 — Java FSE Deep Skilling Solutions
+# Digital Nurture 5.0 - Java FSE React
 
-**Program**: Cognizant Digital Nurture 5.0  
-**Stream**: Java Full Stack Engineer (React)  
-**Duration**: 7 Weeks
+This repository contains my learning journey, hands-on exercises, notes, coding practice, and projects completed as part of the Digital Nurture 5.0 Java Full Stack Engineering (React) program.
+
+## Modules
+
+- Design Patterns & Principles
+- Data Structures & Algorithms
+- PL/SQL
+- JUnit & Mockito
+- Maven
+- Spring Core
+- Spring Data JPA & Hibernate
+- Spring REST
+- Microservices
+- React
+- Git & GitHub
+- DevOps & CI/CD
+- Docker
+- Agile
+- AWS Cloud Fundamentals
+- Generative AI
 
 ## Repository Structure
 
-| Module | Skill | Status |
-|--------|-------|--------|
-| Module 1 | Design Patterns & Principles | ✅ |
-| Module 2 | Data Structures & Algorithms | ✅ |
-| Module 3 | PL/SQL Programming | ✅ |
-| Module 4 | JUnit5, Mockito & SLF4J | ✅ |
-| Module 5 | Spring Core & Maven | ✅ |
-| Module 6 | Spring Data JPA with Hibernate | ✅ |
-| Module 7 | Spring REST using Spring Boot 3 | ✅ |
-| Module 8 | Microservices with Spring Cloud | ✅ |
-| Module 9 | React (SPA Framework) | ✅ |
-| Module 11 | Git Version Control | ✅ |
+```text
+01-Design-Patterns
+02-DSA
+03-PLSQL
+04-JUnit-Mockito
+05-Maven
+06-Spring-Core
+07-Spring-Data-JPA
+08-Spring-REST
+09-Microservices
+10-React
+11-Git
+12-DevOps-CICD
+13-Docker
+14-Agile
+15-AWS
+16-GenAI
+```
 
-## Declaration of Authenticity
+## Goals
 
-I hereby declare that the solutions in this repository were implemented by me as part of the DN 5.0 Deep Skilling program. Any code or algorithm taken from external sources is explicitly credited in the corresponding exercise files.
+- Strengthen Java fundamentals
+- Master Spring Boot and Microservices
+- Learn React and Full Stack Development
+- Practice hands-on exercises
+- Prepare for assessments and interviews
 
-## How to Run
+## Author
 
-- **Java Exercises (Modules 1-2)**: Compile with `javac *.java` and run with `java Main`
-- **PL/SQL (Module 3)**: Execute `.sql` files in Oracle SQL Developer or MySQL Workbench
-- **Spring Boot Projects (Modules 4-8)**: Run `mvn spring-boot:run` in respective directories
-- **React (Module 9)**: Run `npm install && npm start` in each HOL directory
+**Naresh**
+
+📧 naresh.xplores777@gmail.com
