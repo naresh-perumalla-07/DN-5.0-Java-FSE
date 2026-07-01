@@ -52,6 +52,6 @@ This repository contains my learning journey, hands-on exercises, notes, coding 
 
 ## Author
 
-**Naresh**
+**Naresh Perumalla**
 
 📧 naresh.xplores777@gmail.com
